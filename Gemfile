@@ -6,7 +6,7 @@ gem "jekyll-github-metadata", ">= 2.15"
 gem "jekyll-include-cache", group: :jekyll_plugins
 gem "jekyll-sitemap", group: :jekyll_plugins
 
-gem "html-proofer", "~> 5.2", :group => :development
+#gem "html-proofer", "~> 5.2", :group => :development
 
 group :jekyll_plugins do
         gem "jekyll-hover-popup" # Link hovering preview windows
